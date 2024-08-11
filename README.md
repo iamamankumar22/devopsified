@@ -1,4 +1,4 @@
-# 🚀 End-to-End GitOps Project Using AWS EKS & ArgoCD 🌐
+# 🚀 End-to-End GitOps Project Using K8s & ArgoCD 🌐
 
 
 
