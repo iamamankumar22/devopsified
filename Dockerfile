@@ -19,3 +19,5 @@ COPY --from=base /app/main .
 COPY --from=base /app/static ./static
 
 CMD [ "./main" ]
+
+
